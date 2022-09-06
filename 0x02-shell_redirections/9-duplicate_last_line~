@@ -1,2 +1,0 @@
-#!/bin/bash
-echo tail -n 1 iacta >> /alx-system_engineering-devops/0x02-shell_redirections/iacta
