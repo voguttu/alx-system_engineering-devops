@@ -1,2 +1,2 @@
 #!/bin/bash
-mv grep "^[A-Z]" /alx-system_engineering-devops/0x00-shell_basics /tmp/u
+find -type f | grep "^[A-Z]" | mv /tmp/u
